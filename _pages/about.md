@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Associate Professor of Computational Light at University College London</i>
+subtitle: <i>Associate Professor of Computational Light at University College London</i> <p><a href="https://www.optica.org/en-us/membership/distinguished_honorary/senior/senior_member_classes/2020_osa_senior_members/">Optica Senior Member</a></p>
 
 profile:
   align: right
