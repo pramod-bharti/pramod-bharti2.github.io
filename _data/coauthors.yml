@@ -141,17 +141,17 @@
     url: https://scholar.google.com/citations?user=HeOqUSgAAAAJ&hl=en&oi=ao
 
 
-"Ӧlçer":
-  - firstname: ["Selim"]
+"Ölçer":
+  - firstname: ["Selim", "S", "S."]
     url: https://scholar.google.com/citations?hl=en&user=Ht8u94gAAAAJ
 
 
 "Erden":
-  - firstname: ["Erden"]
+  - firstname: ["Erden", "E."]
     url: https://www.linkedin.com/in/erdemerden/
 
 "Hedili":
-  - firstname: ["Kivanc", "Kıvanç", "MK"]
+  - firstname: ["Kivanc", "M Kivanc", "Kıvanç", "MK"]
     url: https://scholar.google.com/citations?hl=en&user=Ech-VaEAAAAJ
 
 
@@ -313,7 +313,7 @@
 
 
 "Baghsiahi":
-  - firstname: ["Hadi"]
+  - firstname: ["Hadi", "H", "H."]
     url: https://scholar.google.com/citations?hl=en&user=xhjOgsIAAAAJ
 
 
