@@ -115,7 +115,7 @@ Kaan mentored and supervised listed people below in the past in alphabetical ord
 [Osman Eldeş](https://scholar.google.com/citations?user=FNgUWs0AAAAJ&hl=en),
 [Richard Li](https://lichard49.github.io/),
 [Praneeth Chakravatula](https://www.cs.unc.edu/~cpk/).
-Note that this list highlights mentorship and supervision post __June 2014__.
+Note that this list highlights mentorship and supervision post __June 2014__ and contains only people that contributed to the scientific knowledge by publishing at scientific venues.
 
 # Awards
 Here are my list of academic awards:
