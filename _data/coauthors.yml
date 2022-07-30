@@ -4,13 +4,18 @@
 
 
 "Urey":
-  - firstname: ["Hakan", "H."]
+  - firstname: ["Hakan", "H.", "H"]
     url: https://mems.ku.edu.tr/
 
 
 "Kingshott":
   - firstname: ["Oliver"]
     url: https://oliver.kingshott.com/
+
+
+"Baghsiahi":
+  - firstname: ["Hadi", "H", "H."],
+    url: https://scholar.google.com/citations?user=xhjOgsIAAAAJ&hl=en&oi=ao
 
 
 "Antipa":
@@ -102,6 +107,9 @@
   - firstname: ["Stefanie"]
     url: https://hcie.csail.mit.edu/stefanie-mueller.html
 
+"Baran":
+  - firstname: ["Utku", "U"]
+    url: https://www.linkedin.com/in/utku-baran-phd/
 
 "Itoh":
   - firstname: ["Yuta"]
@@ -136,6 +144,15 @@
 "Ӧlçer":
   - firstname: ["Selim"]
     url: https://scholar.google.com/citations?hl=en&user=Ht8u94gAAAAJ
+
+
+"Erden":
+  - firstname: ["Erden"]
+    url: https://www.linkedin.com/in/erdemerden/
+
+"Hedili":
+  - firstname: ["Kivanc", "Kıvanç", "MK"]
+    url: https://scholar.google.com/citations?hl=en&user=Ech-VaEAAAAJ
 
 
 "Selviah":
