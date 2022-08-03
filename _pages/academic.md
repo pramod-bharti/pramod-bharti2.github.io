@@ -64,6 +64,7 @@ Listed people are Kaan's active collaborators in the last two years in alphabeti
 [Misha Sra](https://sites.cs.ucsb.edu/~sra/),
 [Nataliya Kos'myna](https://scholar.google.com/citations?hl=en&user=KCynL0wAAAAJ),
 [Nick Antipa](http://nickantipa.com/),
+[Praneeth Chakravatula](https://www.cs.unc.edu/~cpk/),
 [Rafael Kuffner dos Anjos](https://rafaelkuffner.github.io/),
 [Rafał Mantiuk](https://www.cl.cam.ac.uk/~rkm38/),
 [Sebastian Friston](https://wp.cs.ucl.ac.uk/sebastianfriston/),
