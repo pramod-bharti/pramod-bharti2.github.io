@@ -20,8 +20,8 @@ The below list lists invited talks and workshops since 2017.
 | November 2021 &nbsp;&nbsp;   | Optica Frontiers In Optics | United States of America | [Towards Unifying Display Experiences with Computer-Generated Holography](https://www.frontiersinoptics.com/library/images/fio/Archives/FiOLS2021.pdf) |
 | October 2021 &nbsp;&nbsp;   | ICCV 2021 | United States of America | [Towards Unifying Display Experiences with Computer-Generated Holography](https://www.youtube.com/watch?v=1nXpUyZO0SY) |
 | August 2021 | Artilabs | Türkiye | Towards Remote Pixelless Displays |
-| July 2021 | Optica's Digital Holography and Three-Dimensional Imaging | United States of America | [Towards Remote Pixelles Displays](https://opg.optica.org/conference.cfm?meetingid=63&yr=2021) |
-| July 2021 | University College London Virtual Environments and Computer Graphics seminars | United Kingdom | [Towards Remote Pixelles Displays](https://complightlab.com/seminars/#kaan-aksit-university-college-london) |
+| July 2021 | Optica's Digital Holography and Three-Dimensional Imaging | United States of America | [Towards Remote Pixelless Displays](https://opg.optica.org/conference.cfm?meetingid=63&yr=2021) |
+| July 2021 | University College London Virtual Environments and Computer Graphics seminars | United Kingdom | [Towards Remote Pixelless Displays](https://complightlab.com/seminars/#kaan-aksit-university-college-london) |
 | March 2021 | niversity of Rochester | United States of America | [Next Generation Display Technologies for Virtual and Augmented Reality](https://events.rochester.edu/event/voices_of_xr_kaan_aksit) |
 | March 2021 | University College London UNIT 21 | United Kingdom | Next Generation Display Technologies for Virtual and Augmented Reality |
 | December 2020 | Middle East Technical University Electrical and Electronics Engineering Department | Türkiye | Next-generation Computational Displays |
