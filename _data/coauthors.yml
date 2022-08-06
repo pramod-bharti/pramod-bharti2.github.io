@@ -68,8 +68,13 @@
     url: https://richardt.name/
 
 
+"Lanman":
+  - firstname: ["Douglas"]
+    url: https://alumni.media.mit.edu/~dlanman/
+
+
 "Walton":
-  - firstname: ["David R.", "David", "David R"]
+  - firstname: ["David R.", "David", "David R", "David Robert"]
     url: https://drwalton.github.io/
 
 
