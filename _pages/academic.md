@@ -22,12 +22,14 @@ The below list lists invited talks and workshops since 2017.
 | August 2021 | Artilabs | Türkiye | [Towards Remote Pixelless Displays](https://twitter.com/artlabsai/status/1425377849255550976?s=20&t=k6u9jRAIeacL7t4O0omxGg) |
 | July 2021 | Optica's Digital Holography and Three-Dimensional Imaging | United States of America | [Towards Remote Pixelless Displays](https://opg.optica.org/conference.cfm?meetingid=63&yr=2021) |
 | July 2021 | University College London Virtual Environments and Computer Graphics seminars | United Kingdom | [Towards Remote Pixelless Displays](https://complightlab.com/seminars/#kaan-aksit-university-college-london) |
+| June 2021 | Korean Information Display Society (KIDS) | South Korea | [Towards Remote Pixelless Displays](https://www.edwith.org/metaverseworkshop) |
 | March 2021 | University of Rochester | United States of America | [Next Generation Display Technologies for Virtual and Augmented Reality](https://events.rochester.edu/event/voices_of_xr_kaan_aksit) |
 | March 2021 | University College London UNIT 21 | United Kingdom | Next Generation Display Technologies for Virtual and Augmented Reality |
+| August 2020 | International Meeting on Information Display | South Korea | Next Generation Display Technologies for Virtual and Augmented Reality |
 | December 2020 | Middle East Technical University Electrical and Electronics Engineering Department | Türkiye | Next-generation Computational Displays |
 | September 2020 | Optica's Incubator on Visual Perception in AR/VR | United States of America | Technical panel discussion |
 | August 2020 | IMID 202O | South Korea | [Next generation display technologies for Augmented Reality](https://www.youtube.com/watch?v=vDxmBu1I4K0&feature=youtu.be) |
-| August 2019 | ICCV 2019 | South Korea | Eye tracking for next generation displays |
+| August 2019 | ICCV 2019 | South Korea | [Eye tracking for next generation displays](https://research.fb.com/programs/the-2019-openeds-workshop-eye-tracking-for-vr-and-ar/) |
 | December 2018 | SIGGRAPH ASIA 2018 | South Korea | Cutting-Edge VR/AR Display Technologies |
 | March 2018 | IEEE VR 2018 | Germany | Computational Near-Eye Displays |
 | March 2018 | Sarkaç | Türkiye | [Sanal Gerçeklik ve Artırılmış Gerçeklik nedir?](https://sarkac.org/2018/03/sanal-gerceklik-artirilmis-gerceklik-nedir/) |
