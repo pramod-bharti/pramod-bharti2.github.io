@@ -22,7 +22,7 @@ The below list lists invited talks and workshops since 2017.
 | August 2021 | Artilabs | Türkiye | [Towards Remote Pixelless Displays](https://twitter.com/artlabsai/status/1425377849255550976?s=20&t=k6u9jRAIeacL7t4O0omxGg) |
 | July 2021 | Optica's Digital Holography and Three-Dimensional Imaging | United States of America | [Towards Remote Pixelless Displays](https://opg.optica.org/conference.cfm?meetingid=63&yr=2021) |
 | July 2021 | University College London Virtual Environments and Computer Graphics seminars | United Kingdom | [Towards Remote Pixelless Displays](https://complightlab.com/seminars/#kaan-aksit-university-college-london) |
-| March 2021 | niversity of Rochester | United States of America | [Next Generation Display Technologies for Virtual and Augmented Reality](https://events.rochester.edu/event/voices_of_xr_kaan_aksit) |
+| March 2021 | University of Rochester | United States of America | [Next Generation Display Technologies for Virtual and Augmented Reality](https://events.rochester.edu/event/voices_of_xr_kaan_aksit) |
 | March 2021 | University College London UNIT 21 | United Kingdom | Next Generation Display Technologies for Virtual and Augmented Reality |
 | December 2020 | Middle East Technical University Electrical and Electronics Engineering Department | Türkiye | Next-generation Computational Displays |
 | September 2020 | Optica's Incubator on Visual Perception in AR/VR | United States of America | Technical panel discussion |
