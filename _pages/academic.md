@@ -109,7 +109,7 @@ These courses include:
 # Academic mentorship
 Kaan mentored and supervised listed people below in the past in alphabetical order:
 [Amirhossein Ghanbari Niaki](https://scholar.google.com/citations?hl=en&user=kAt01o0AAAAJ),
-[David Dunn](qenops.com),
+[David Dunn](https://qenops.com),
 [David Robert Walton](https://drwalton.github.io/),
 [Doğa Doğan](https://www.dogadogan.com),
 [Eric Whitmire](https://www.ericwhitmire.com/),
