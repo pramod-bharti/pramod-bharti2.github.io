@@ -40,7 +40,8 @@ The below list lists invited talks and workshops since 2017.
 
 # Collaborators
 I am forever thankful to my collaborators for enabling my scientific journey.
-I learned from them a lot, and this helped me shape my academic profile.
+I learned a lot from them.
+They shape and influence my scientific journey.
 
 **Review processes.** If you are going to invite me to a review process, it is worth to check below list to make sure to maintain a fair review process.
 Please also make sure that you understand `my expertise` before inviting me to a review process.
