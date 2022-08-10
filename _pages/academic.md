@@ -12,6 +12,7 @@ The below list lists invited talks and workshops since 2017.
 
 | Time | Institution | Country | Title |
 | -------------- | ---------------------- | -------------- | ----------------------------------- |
+| August 2022      | SIGGRAPH 2022 | United States | [Optimizing vision and visuals: lectures on cameras, displays and perception](https://youtu.be/z_AtSgct6_I) |
 | July 2022      | London Imaging Meeting | United Kingdom | [Perceptually Guided Computer-Generated Holography](https://www.imaging.org/site/IST/IST/Conferences/LIM/LIM_Home.aspx) |
 | June 2022 | Gordon Research Conference | United States of America | [Perceptual Realism in Computational Displays](https://www.grc.org/image-science-conference/2022/) |
 | May 2022 | Universidad Zaragoza | Spain            | [Perceptually Guided Computer-Generated Holography](https://www.youtube.com/watch?v=WBDYHmEoFHw) |
