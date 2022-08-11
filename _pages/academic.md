@@ -116,6 +116,7 @@ Kaan mentored and supervised listed people below in the past in alphabetical ord
 [Doğa Doğan](https://www.dogadogan.com),
 [Eric Whitmire](https://www.ericwhitmire.com/),
 [Kishore Rathinavel](https://sites.google.com/site/kishorerathinavel/),
+[Kylee Krzanich](https://www.linkedin.com/in/kyleekrzanich/),
 [Koray Kavaklı](https://scholar.google.com/citations?hl=en&user=rn6XtO4AAAAJ),
 [Oliver Kingshott](https://oliver.kingshott.com/),
 [Osman Eldeş](https://scholar.google.com/citations?user=FNgUWs0AAAAJ&hl=en),
