@@ -57,6 +57,7 @@ Listed people are Kaan's active collaborators in the last two years in alphabeti
 [Doğa Doğan](https://www.dogadogan.com/),
 [Douglas Lanman](https://alumni.media.mit.edu/~dlanman/),
 [Emrah Bostan](https://emrahbostan.com/),
+[Figen Öktem](https://tr.linkedin.com/in/figen-s-oktem-3142542a),
 [Hakan Ürey](https://mems.ku.edu.tr/?page_id=8),
 [Huaishu Peng](http://www.huaishu.me/),
 [Jason Orlosky](https://www.jeoresearch.com/research),
