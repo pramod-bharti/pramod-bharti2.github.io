@@ -125,6 +125,7 @@ Kaan mentored and supervised listed people below in the past in alphabetical ord
 [Praneeth Chakravatula](https://www.cs.unc.edu/~cpk/).
 [Richard Li](https://lichard49.github.io/),
 Note that this list highlights mentorship and supervision post __June 2014__ and contains only people that contributed to the scientific knowledge by publishing at scientific venues.
+To see a full list of people that Kaan has been mentoring within his research group, please visit [this link](https://complightlab.com/people).
 
 # Awards
 Here are my list of academic awards:
