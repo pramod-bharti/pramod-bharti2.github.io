@@ -182,14 +182,25 @@ Here are my list of academic awards:
 
 ## 2022
 - [MIT News: Invisible machine-readable labels that identify and track objects](https://news.mit.edu/2022/invisible-labels-identify-track-objects-0128)
+- [Invisible 3D-Printed Machine-Readable Labels that Identify and Track Objects](https://thenextweb.com/news/mit-laser-cutter-ai-tool)
+- [3D Natives: InfraredTags, Invisible Barcodes Embedded in 3D Printed Objects](https://www.3dnatives.com/en/infraredtags-invisible-barcodes-embedded-in-3d-printed-objects-010220225/)
 
 ## 2021
+- [Vision Spectra: Laser Cutter Differentiates Among Materials](https://www.photonics.com/Articles/Laser_Cutter_Differentiates_Among_Materials/a67285)
 - [The Next Bytes' podcast on our sensicut project](https://the-next-byte-wevolver.simplecast.com/episodes/33-the-solar-panel-that-broke-the-world-record)
+- [MIT's new machine learning tool makes laser-cutting safer](https://thenextweb.com/news/mit-laser-cutter-ai-tool)
 - [IT Media's article on our beaming displays](https://the-next-byte-wevolver.simplecast.com/episodes/33-the-solar-panel-that-broke-the-world-record)
 
 
 ## 2019
 - [Upload VR article on our varifocal displays](https://uploadvr.com/siggraph-2019-foveated-ar-tail/)
+- [Businesswire: Computer Graphics Community Arrives in Los Angeles, Reports Record Numbers at SIGGRAPH 2019](https://www.businesswire.com/news/home/20190801006149/en/Computer-Graphics-Community-Arrives-in-Los-Angeles-Reports-Record-Numbers-at-SIGGRAPH-2019)
+- [Shootonline: Marvel's Victoria Talks SIGGRAPH Diversity](https://www.shootonline.com/news/marvels-victoria-alonso-talks-siggraph-diversity)
+
+
+## 2018
+- [inpark: SIGGRAPH 2018 concludes with more than 16,000 in attendance](https://www.inparkmagazine.com/siggraph-2018-concludes-with-more-than-16000-in-attendance/)
+- [AWN: SIGGRAPH 2018 celebrates Generations in Vancouver](https://www.awn.com/news/siggraph-2018-celebrates-generations-vancouver)
 
 
 ## 2017
