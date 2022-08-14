@@ -153,10 +153,14 @@ Here are my list of academic awards:
 
 
 ## Organizations and public demonstrations
-- **2021-...:** I am organizing [a seminar series](https://complightlab.com/seminars/) where we invite leading scientists across various topics.
-- **2021-..:** I am organizing [an online discussion group](https://complightlab.com/research_hub/) on rendering, perception, displays and cameras  with +250 members across globe.
-- **2021, 2022:** I helped organizing [Optica's Incubator on Perception in Immersive Technologies](https://www.optica.org/en-us/events/incubator_meetings/past_incubator_meetings/2021/osa_incubator_on_perception_in_immersive_technolog/).
-- **2021, 2022:** I helped organizing [Virtual and Augmented Reality theme at Frontiers in Optics of Optica](https://opg.optica.org/conference.cfm?meetingid=56&yr=2021).
+
+### 2021
+- **2021:** I helped organizing [Optica's Incubator on Perception in Immersive Technologies](https://www.optica.org/en-us/events/incubator_meetings/past_incubator_meetings/2021/osa_incubator_on_perception_in_immersive_technolog/).
+- **2021:** I helped organizing [Virtual and Augmented Reality theme at Frontiers in Optics of Optica](https://opg.optica.org/conference.cfm?meetingid=56&yr=2021).
+- **2021:** I organize [a seminar series](https://complightlab.com/seminars/) where we invite leading scientists across various topics.
+- **2021:** I organize [an online discussion group](https://complightlab.com/research_hub/) on rendering, perception, displays and cameras  with +250 members across globe.
+
+### Past
 - **2017, 2018, 2019:** I held public demonstrations at respected venues and exhibits holding more than ten thousand visitors. These venues and exhibits include ACM SIGGRAPH 2017, ACM SIGGRAPH 2018, and ACM SIGGRAPH 2019.
 - **2005-2007:** I helped forming [a solar race car team](https://www.itugae.com/) during my undergraduate studies at Istanbul Technical University.
 
