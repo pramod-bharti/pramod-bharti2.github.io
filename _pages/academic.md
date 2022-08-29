@@ -8,7 +8,9 @@ nav: true
 This page provides additional information on Kaan's academic activities and achievements through out his academic career.
 
 <span style="font-size:larger;">
+<b>
 <a href="https://media.githubusercontent.com/media/kaanaksit/kaanaksit.github.io/main/assets/pdf/kaanaksit.pdf"> To Download Kaan's simplified résumé, click here </a>
+</b>
 </span>
 
 # Invited Talks and Workshops
