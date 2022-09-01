@@ -95,7 +95,7 @@ Below list provides research fundings acquired by Kaan since __August 2020__, wh
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Amount &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Source  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                         |
 | --------------- | ------------ | -------------------------------------------- | ----------------------------------- |
 | June 2022       | 75000 USD    | Meta Reality Labs | Inclusive rendering initiative gift |
-| January 2022    | N/A          | European Union    | Starting Grant (Received mark A --high score, project not funded) |
+| January 2022    | N/A          | European Union    | Starting Grant (Received a top mark, project not funded due to insufficient budget) |
 | November 2021   | 14995 GBP    | Royal Society     | Research grants 2021 round two      |
 | November 2020   | 10000 GBP    | UCL-Osaka University Strategic Partner funds | Development of a joint Telelife technology seminar using virtual reality |
 
