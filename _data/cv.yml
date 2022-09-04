@@ -57,19 +57,12 @@
       year: 2013
     - title: Research Assistant
       institution: <a href="https://mems.ku.edu.tr/">Optical Microsystems Laboratory</a>
-      description: <a href="https://goo.gl/maps/eskU9qUzR4NEvNKq9">Rumelifeneri, Koç Üniversitesiö 34450, Sarıyer, İstanbul</a>, <a href="https://www.turkiye.gov.tr">Türkiye</a>
+      description: <a href="https://goo.gl/maps/eskU9qUzR4NEvNKq9">Rumelifeneri, Koç Üniversitesi, 34450, Sarıyer, İstanbul</a>, <a href="https://www.turkiye.gov.tr">Türkiye</a>
       year: 2010-2014
     - title: Research Intern
       institution: <a href="http://www.research.philips.com/">Philips Research</a>
       description: <a href="https://goo.gl/maps/pd6wFEFDWG8pRCEZ8">HTC 34, 5656 AE Eindhoven,</a>, <a href="https://www.government.nl/">Netherlands</a>
       year: 2009-2010
-
-
-
-
-
-
-
 
 
 - title: Academic Funding
@@ -108,7 +101,21 @@
       year: July 2022
       institution: <a href="https://gov.uk">United Kingdom</a>
       description: <a href="https://www.imaging.org/site/IST/IST/Conferences/LIM/LIM2022">Perceptually Guided Computer-Generated Holography</a>
-    - 
+    - title: <a href="https://www.grc.org/image-science-conference/2022/">Gordon Research Conference</a>
+      year: June 2022
+      institution: <a href="https://www.usa.gov/">United States of America</a>
+      description: <a href="https://www.grc.org/image-science-conference/2022/">Perceptual Realism in Computational Displays</a>
+    - title: <a href="https://www.unizar.es/">Universidad Zaragoza</a>
+      year: May 2022
+      institution: <a href="http://www.spain.info/">Spain</a>
+      description: <a href="https://www.youtube.com/watch?v=WBDYHmEoFHw">Perceptually Guided Computer-Generated Holography</a>
+    - title: <a href="https://chi2022.acm.org">SIGCHI 2022</a>
+      year: May 2022
+      institution: <a href="https://www.usa.gov/">United States of America</a>
+      description: <a href="https://programs.sigchi.org/chi/2022/program/content/70688">Telelife A Vision of Remote Living in 2035</a>
+
+
+
 
 
 - title: Academic Mentorship
