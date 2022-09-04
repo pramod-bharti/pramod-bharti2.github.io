@@ -1,3 +1,9 @@
+- title: Summary
+  type: list
+  contents:
+    - Kaan Akşit invents novel optics, hardware, and software for next‑generation computational display and imaging technologies. Kaan has more than ten years of experience and specialization in various novel computational display technologies, including auto‑stereoscopic displays, holographic displays and imagers, and near‑eye displays for virtual and augmented reality applications.
+
+
 - title: General Information
   type: map
   contents:
@@ -11,12 +17,6 @@
       value: <a href="https://www.britannica.com/topic/Turkish-language">Turkish</a>, <a href="https://www.britannica.com/topic/English-language">English</a>, <a href="https://www.britannica.com/topic/German-language">German</a>
     - name: Address
       value: <a href="https://goo.gl/maps/a9wwxSwU4VsXwKS76">169 Euston Road, NW1 2AE, London, United Kingdom</a> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.260134549919!2d-0.133808683991959!3d51.52678841710593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2572def3b3%3A0x87d130881cf6bb1a!2s169%20Euston%20Rd%2C%20London%20NW1%202AE!5e0!3m2!1sen!2suk!4v1662327903493!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-- title: Summary
-  type: list
-  contents:
-    - Kaan invents novel optics, hardware, and software for next‑generation computational display and imaging technologies. Kaan has more than ten years of experience and specialization in various novel computational display technologies, including auto‑stereoscopic displays, holographic displays and imagers, and near‑eye displays for virtual and augmented reality applications.
 
 
 - title: Education
@@ -35,6 +35,43 @@
       year: 2004-2007
       description: <a href="https://elk.itu.edu.tr/">Electrical Engineering</a>
         
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Associate Professor of Computational Light
+      institution: <a href="https://www.ucl.ac.uk">University College London</a>
+      description: <a href="https://goo.gl/maps/oGRfKEsWqrw632DK6">169, Euston Road, London NW1 2AE</a>, <a href="https://gov.uk">United Kingdom</a>
+      year: 2021-...
+    - title: Senior Research Scientist
+      institution: <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a>
+      description: <a href="https://goo.gl/maps/GjRya71D6P81AnMN7">2788 San Tomas Expy, Santa Clara, CA95051</a>, <a href="https://www.usa.gov/">United States of America</a>
+      year: 2014-2020
+    - title: Visiting Researcher
+      institution: <a href="https://goodbyekansasstudios.com/">Imagination Studios (Currently Goodbye Kansas)</a>
+      description: <a href="https://goo.gl/maps/Lgkq4UWX69KbHQZx9">Kungsgatan 30, 753 21 Uppsala</a>, <a href="https://www.sweden.se">Sweden</a>
+      year: 2013
+    - title: Research Intern
+      institution: <a href="https://www.disneyresearch.com/">Disney Research</a>
+      description: <a href="https://goo.gl/maps/epxFY5TgEQtmFW4W6">Clausiusstrasse 49, 8092 Zürich</a>, <a href="https://www.admin.ch">Switzerland</a>
+      year: 2013
+    - title: Research Assistant
+      institution: <a href="https://mems.ku.edu.tr/">Optical Microsystems Laboratory</a>
+      description: <a href="https://goo.gl/maps/eskU9qUzR4NEvNKq9">Rumelifeneri, Koç Üniversitesiö 34450, Sarıyer, İstanbul</a>, <a href="https://www.turkiye.gov.tr">Türkiye</a>
+      year: 2010-2014
+    - title: Research Intern
+      institution: <a href="http://www.research.philips.com/">Philips Research</a>
+      description: <a href="https://goo.gl/maps/pd6wFEFDWG8pRCEZ8">HTC 34, 5656 AE Eindhoven,</a>, <a href="https://www.government.nl/">Netherlands</a>
+      year: 2009-2010
+
+
+
+
+
+
+
+
+
 - title: Academic Funding
   type: time_table
   contents:
@@ -42,7 +79,7 @@
       institution: <a href="https://about.facebook.com/realitylabs/">Meta Reality Labs</a>
       year: June 2022
       description: Inclusive rendering initiative gift
-    - title: Received a top mark, project not funded due to insufficient budget
+    - title: Received a top mark, project not funded due to insufficient funds
       institution: <a href="https://erc.europa.eu">European Research Council</a>
       year: January 2022
       description: <a href="https://erc.europa.eu/starting-grants">Starting Grants</a>
@@ -77,7 +114,8 @@
 - title: Academic Mentorship
   type: list
   contents:
-    - Kaan mentored and supervised listed people below the past, given in alphabetical order. 
+    - Kaan mentored and supervised listed people below in the past.
+      This list is provided in alphabetical order. 
       <a href="https://scholar.google.com/citations?hl=en&user=kAt01o0AAAAJ">Amirhossein Ghanbari Niaki</a>,
       <a href="https://qenops.com/">David Dunn</a>,
       <a href="https://drwalton.github.io/">David Robert Walton</a>,
