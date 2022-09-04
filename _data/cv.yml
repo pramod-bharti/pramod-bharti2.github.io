@@ -9,6 +9,9 @@
       value: <a href="mailto:kaanaksit@kaanaksit.com">kaanaksit@kaanaksit.com</a>
     - name: Languages
       value: <a href="https://www.britannica.com/topic/Turkish-language">Turkish</a>, <a href="https://www.britannica.com/topic/English-language">English</a>, <a href="https://www.britannica.com/topic/German-language">German</a>
+    - name: Address
+      value: <a href="https://goo.gl/maps/a9wwxSwU4VsXwKS76">169 Euston Road, NW1 2AE, London, United Kingdom</a> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.260134549919!2d-0.133808683991959!3d51.52678841710593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2572def3b3%3A0x87d130881cf6bb1a!2s169%20Euston%20Rd%2C%20London%20NW1%202AE!5e0!3m2!1sen!2suk!4v1662327903493!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 - title: Summary
   type: list
