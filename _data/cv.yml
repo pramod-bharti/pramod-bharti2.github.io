@@ -2,96 +2,89 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: <a href="https://kaanaksit.com">Kaan Akşit</a>
+    - name: Title
+      value: <a href="https://en.wikipedia.org/wiki/Associate_professor">Associate Professor</a> of <a href="https://complightlab.com">Computational Light</a>
+    - name: Email
+      value: <a href="mailto:kaanaksit@kaanaksit.com">kaanaksit@kaanaksit.com</a>
     - name: Languages
-      value: English, German
+      value: <a href="https://www.britannica.com/topic/Turkish-language">Turkish</a>, <a href="https://www.britannica.com/topic/English-language">English</a>, <a href="https://www.britannica.com/topic/German-language">German</a>
+
+- title: Summary
+  type: list
+  contents:
+    - Kaan invents novel optics, hardware, and software for next‑generation computational display and imaging technologies. Kaan has more than ten years of experience and specialization in various novel computational display technologies, including auto‑stereoscopic displays, holographic displays and imagers, and near‑eye displays for virtual and augmented reality applications.
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+    - title: <a href="https://en.wikipedia.org/wiki/Doctor_of_Philosophy">Doctor of Philosophy</a>
+      institution: <a href="https://www.ku.edu.tr">Koç University</a>, <a href="https://www.ibb.istanbul/">Istanbul</a>, <a href="https://www.turkiye.gov.tr/">Türkiye</a>
+      year: 2010-2014
+      description: <a href="https://ee.ku.edu.tr/">Electrical and Electronics Engineering</a>
+    - title: <a href="https://en.wikipedia.org/wiki/Master_of_Science">Master of Science</a>
+      institution: <a href="https://www.rwth-aachen.de">RWTH Aachen University</a>, <a href="https://www.aachen.de">Aachen</a>, <a href="https://www.deutschland.de">Germany</a>
+      year: 2007-2010
+      description: <a href="https://www.elektrotechnik.rwth-aachen.de">Electrical Power Engineering</a>
+    - title: <a href="https://en.wikipedia.org/wiki/Bachelor_of_Science">Bachelor of Science</a>
+      institution: <a href="https://www.itu.edu.tr">Istanbul Technical University</a>, <a href="https://www.ibb.istanbul/">Istanbul</a>, <a href="https://www.turkiye.gov.tr/">Türkiye</a>
+      year: 2004-2007
+      description: <a href="https://elk.itu.edu.tr/">Electrical Engineering</a>
+        
+- title: Academic Funding
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: $75,000
+      institution: <a href="https://about.facebook.com/realitylabs/">Meta Reality Labs</a>
+      year: June 2022
+      description: Inclusive rendering initiative gift
+    - title: Received a top mark, project not funded due to insufficient budget
+      institution: <a href="https://erc.europa.eu">European Research Council</a>
+      year: January 2022
+      description: <a href="https://erc.europa.eu/starting-grants">Starting Grants</a>
+    - title: £14,995
+      institution: <a href="https://royalsociety.org">Royal Society</a>
+      year: November 2021
+      description: <a href="https://royalsociety.org/grants-schemes-awards/grants/research-grants/">Research grants 2021 round two</a>
+    - title: £10,000
+      institution: <a href="https://www.ucl.ac.uk/global/ucl-osaka-university-strategic-partner-funds">UCL-Osaka University Strategic Partner funds</a>
+      year: January 2021
+      description: <a href="https://www.youtube.com/watch?v=49Emo8BxDRA">Development of a joint Telelife technology seminar using virtual reality</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Invited Talks and Workshops
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Sample Invited Talk
+      year: Sample
+      institution: <a href="https://www.usa.gov/">United States of America</a>
+      description: <iframe width="560" height="315" src="https://www.youtube.com/embed/1nXpUyZO0SY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+    - title: <a href="https://s2022.siggraph.org/">SIGGRAPH 2022</a>
+      year: August 2022
+      institution: <a href="https://www.usa.gov/">United States of America</a>
+      description: <a href="https://www.youtube.com/watch?v=z_AtSgct6_I">Optimizing vision and visuals, lectures on cameras, displays and perception.</a>
+    - title: <a href="https://www.imaging.org/Site/IST/Conferences/LIM/LIM2022">LIM 2022</a>
+      year: July 2022
+      institution: <a href="https://gov.uk">United Kingdom</a>
+      description: <a href="https://www.imaging.org/site/IST/IST/Conferences/LIM/LIM2022">Perceptually Guided Computer-Generated Holography</a>
+    - 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Academic Mentorship
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Kaan mentored and supervised listed people below the past, given in alphabetical order. 
+      <a href="https://scholar.google.com/citations?hl=en&user=kAt01o0AAAAJ">Amirhossein Ghanbari Niaki</a>,
+      <a href="https://qenops.com/">David Dunn</a>,
+      <a href="https://drwalton.github.io/">David Robert Walton</a>,
+      <a href="https://www.dogadogan.com/">Doğa Doğan</a>,
+      <a href="https://www.ericwhitmire.com/">Eric Whitmire</a>,
+      <a href="https://sites.google.com/site/kishorerathinavel/">Kishore Rathinavel</a>,
+      <a href="https://www.linkedin.com/in/kyleekrzanich/">Kylee Krzanich</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=rn6XtO4AAAAJ">Koray Kavaklı</a>,
+      <a href="https://oliver.kingshott.com/">Oliver Kingshott</a>,
+      <a href="https://scholar.google.com/citations?user=FNgUWs0AAAAJ&hl=en">Osman Eldeş</a>,
+      <a href="https://www.cs.unc.edu/~cpk/">Praneeth Chakravatula</a>,
+       <a href="https://lichard49.github.io/">Richard Li</a>.
+      Note that this list highlights mentorship and supervision for only people that contributed to the scientific knowledge by publishing at scientific venues. To see a full list of people that Kaan has been mentoring within his research group, please visit <a href="https://complightlab.com/people">this link</a>.
