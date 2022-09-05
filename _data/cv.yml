@@ -11,7 +11,7 @@
     - <b>Review processes.</b> If you are going to invite me to a review process, it is worth to check below list to make sure to maintain a fair review process. Please also make sure that you understand "my expertise" before inviting me to a review process. For example, I don't know anything about "sea creatures and their natural habitats" or "lifetime of volcanos".
     - <b>Active Collaborators (Conflicts)</b> Listed people are Kaan’s active collaborators in the last two years in alphabetical order.
       <a href="https://www.cst.cam.ac.uk/people/aoy20">Ali Özgür Yöntem</a>,
-      <a href="http://www0.cs.ucl.ac.uk/staff/A.Steed/">[Anthony Steed</a>,
+      <a href="http://www0.cs.ucl.ac.uk/staff/A.Steed/">Anthony Steed</a>,
       <a href="https://drwalton.github.io/">David Robert Walton</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=sQhgJh4AAAAJ">David Swapp</a>,
       <a href="https://www.dogadogan.com/">Doğa Doğan</a>,
@@ -280,3 +280,137 @@
       <a href="https://www.cs.unc.edu/~cpk/">Praneeth Chakravatula</a>,
        <a href="https://lichard49.github.io/">Richard Li</a>.
       Note that this list highlights mentorship and supervision for only people that contributed to the scientific knowledge by publishing at scientific venues. To see a full list of people that Kaan has been mentoring within his research group, please visit <a href="https://complightlab.com/people">this link</a>.
+
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Best Paper Nominee
+      institution: <a href="https://ieeevr.org/2021/">IEEE VR</a>
+      year: 2021
+      description: Beaming Displays, only 11 papers nominated from over 300 submissions.
+    - title: Outstanding Reviewer Recognition
+      institution: <a href="https://www.osapublishing.org/reviewer/?page=outstanding_reviewer">Optica</a>
+      year: 2020
+    - title: Emerging Technologies Best in Show Award
+      institution: <a href="https://blog.siggraph.org/2019/09/siggraph-spotlight-episode-28-prescription-foveated-ar-with-nvidia.html/">SIGGRAPH 2019</a>
+      year: 2019
+    - title: Best Paper Nominee
+      institution: <a href="https://ieeevr.org/2019/">IEEE VR</a>
+      year: 2019
+      description: Manufacturing Application Driven Foveated Near-Eye Displays, only 11 papers nominated from over 300 submissions.
+    - title: Best Paper Award
+      institution: <a href="https://doi.org/10.1109/TVCG.2018.2868532">IEEE ISMAR</a>
+      year: 2018
+      description: FocusAR Auto-focus Augmented Reality Eyeglasses, only 11 papers nominated from over 300 submissions.
+    - title: Emerging Technologies Best in Show Award
+      institution: <a href="https://blog.siggraph.org/2018/11/2018-emerging-technologies-best-in-show-steerable-application-adaptive-near-eye-displays.html/">SIGGRAPH</a>
+      year: 2018
+      description: Steerable Application-Adaptive Near Eye Displays
+    - title: Emerging Technologies DC EXPO Special Prize
+      institution: <a href="https://doi.org/10.1145/3084822.3084846">SIGGRAPH</a>
+      year: 2017
+      description: Wide Field of View Varifocal Near Eye Displays using See-Through Deformable Membrane Mirrors
+    - title: Best Paper Award
+      institution: <a href="https://blog.siggraph.org/2018/11/2018-emerging-technologies-best-in-show-steerable-application-adaptive-near-eye-displays.html/">IEEE VR</a>
+      year: 2017
+      description: Wide Field of View Varifocal Near Eye Displays using See-Through Deformable Membrane Mirrors
+    - title: Graduate Studies Excellence Award
+      institution: Koç University
+      year: 2014
+      description: Award received from head of institute, Prof. Tekin Dereli and the dean, Prof. Ümran İnan of Koç (Also affiliated as a professor at Stanford University).
+    - title: Student Travel Grant
+      institution: SID Display Week 2014
+      year: 2014
+      description: Student travel grant from SEL (Semiconductor Energy Laboratory), Larry and Jane Weber and Larry and Carol Tannas.
+    - title: New Product Award
+      institution: International 3D Society
+      year: 2013
+    - title: Merck Young Scientist Award
+      institution: Merck KGaA
+      year: 2012
+      description: Merck Young Scientist Award received from Merck group’s president, Mr. Jürgen König in 2012.
+    - title: Best Project Award
+      institution: Turkish Health Industry Society
+      year: 2012
+      description: I have supervised a term project of two undergraduate students, which was recognized as the best project award from Turkish Health Industry Society in 2012.
+    - title: Best Project Award
+      institution: Yıldız Technical University's IEEE Student Branch
+      year: 2012
+      description: Best project award from YTÜ’s IEEE student branch among 131 projects; award was given by his excellency, Minister of Science and Technology of Türkiye, 2012.
+    - title: Best Place
+      institution: TÜBİTAK
+      year: 2007
+      description: TÜBİTAK Solar Car Races 2007 at Hipodrom at Ankara Solar Car Race-Among the 38 team, Won 4 trophies for 1. and 2.places in Ankara Race Arena, 1. and 3., ANOK Race 1. Place, Best Design Prize, Fastest Run for placement.
+    - title: Best Place
+      institution: TÜBİTAK
+      year: 2006
+      description: TÜBİTAK Solar Car Races 2006 at Official F1 Istanbul Racetrack and Arena Izmir Solar Car Race Among the 38 team, Won 9 trophies for 1. and 2. places in Istanbul Park F1 Race Arena, 1. and 3. Places in Izmir Race Arena, Best Design Prize, 1. and 2. Places in Placing Tours.
+
+
+- title: Memberships
+  type: nested_list
+  contents:
+    - title: Membership
+      items: 
+        - <a href="https://www.acm.org/">Association for Computing Machinery (ACM)</a>
+        - <a href="https://spie.org/?SSO=1">The International Society for Optics and Photonics</a>
+    - title: Senior Membership
+      items:
+        - <a href="https://opg.optica.org/">The Optical Society (Optica)</a>
+
+
+- title: Organizations and Public Demonstrations
+  type: nested_list
+  contents:
+    - title: 2021
+      items: 
+        - <a href="https://www.optica.org/en-us/events/incubator_meetings/past_incubator_meetings/2021/osa_incubator_on_perception_in_immersive_technolog/"> I helped organizing Optica’s Incubator on Perception in Immersive Technologies.</a>
+        - <a href="https://opg.optica.org/conference.cfm?meetingid=56&yr=2021">I helped organizing Virtual and Augmented Reality theme at Frontiers in Optics of Optica.</a>
+        - <a href="https://complightlab.com/seminars/">https://complightlab.com/seminars/</a>
+        - <a href="https://complightlab.com/research_hub/">I organize an online discussion group on rendering, perception, displays and cameras with +250 members across globe.</a>
+    - title: 2017-2018-2019
+      items:
+        - I organize an online discussion group on rendering, perception, displays and cameras with +250 members across globe.
+    - title: 2005-2007
+      items:
+        - <a href="https://www.itugae.com/">I helped forming a solar race car team during my undergraduate studies at Istanbul Technical University.</a>
+
+
+- title: Review Process
+  type: nested_list
+  contents:
+    - title: Technical Committee
+      items: 
+        - IEEE ISMAR 2020, ACM SIGGRAPH ASIA 2020, IEEE VR 2021, IEEE ISMAR 2021, ACM SIGGRAPH ASIA 2021
+    - title: Award Committee
+      items:
+        - <a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC 2022 Lifetime Achievement and Technical Achievement awards</a>
+    - title: Grant Commitees 
+      items:
+        - <a href="https://epsrc.ukri.org">EPSRC</a>
+
+
+- title: Media Coverage
+  type: nested_list
+  contents:
+    - title: 2022
+      items: 
+        - <a href="https://news.mit.edu/2022/invisible-labels-identify-track-objects-0128">MIT News, Invisible machine-readable labels that identify and track objects</a> 
+        - <a href="https://thenextweb.com/news/mit-laser-cutter-ai-tool">Invisible 3D-Printed Machine-Readable Labels that Identify and Track Objects</a>
+        - <a href="https://www.3dnatives.com/en/infraredtags-invisible-barcodes-embedded-in-3d-printed-objects-010220225/">3D Natives InfraredTags, Invisible Barcodes Embedded in 3D Printed Objects</a>
+    - title: 2021
+      items:
+        - <a href="https://www.photonics.com/Articles/Laser_Cutter_Differentiates_Among_Materials/a67285">Vision Spectra, Laser Cutter Differentiates Among Materials</a>
+        - <a href="https://the-next-byte-wevolver.simplecast.com/episodes/33-the-solar-panel-that-broke-the-world-record">The Next Bytes’ podcast on our sensicut project</a>
+        - <a href="https://thenextweb.com/news/mit-laser-cutter-ai-tool">MIT’s new machine learning tool makes laser-cutting safer</a>
+        - <a href="https://the-next-byte-wevolver.simplecast.com/episodes/33-the-solar-panel-that-broke-the-world-record">IT Media’s article on our beaming displays</a>
+    - title: 2019
+      items:
+        - <a href="https://uploadvr.com/siggraph-2019-foveated-ar-tail/">Upload VR article on our varifocal displays</a>
+        - <a href="https://www.businesswire.com/news/home/20190801006149/en/Computer-Graphics-Community-Arrives-in-Los-Angeles-Reports-Record-Numbers-at-SIGGRAPH-2019">Businesswire, Computer Graphics Community Arrives in Los Angeles, Reports Record Numbers at SIGGRAPH 2019</a>
+        - <a href="https://www.shootonline.com/news/marvels-victoria-alonso-talks-siggraph-diversity">Shootonline, Marvel’s Victoria Talks SIGGRAPH Diversity</a>
+    - title: 2018
+      items:
+        - <a href="https://www.inparkmagazine.com/siggraph-2018-concludes-with-more-than-16000-in-attendance/">inpark, SIGGRAPH 2018 concludes with more than 16,000 in attendance</a>
+        - <a href="https://www.awn.com/news/siggraph-2018-celebrates-generations-vancouver">AWN, SIGGRAPH 2018 celebrates Generations in Vancouver</a>
