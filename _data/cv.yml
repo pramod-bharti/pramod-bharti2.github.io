@@ -286,23 +286,27 @@
 
 
 - title: Mentorship and Guidance
-  type: time_table
-    - 2022,
-      Klara Brandstätter (University College London, Master Student),
-      Yilin Qui (University College London, Master Student),
-      Praveen Selvaraj (University College London, Master Student),
-      Jeanne Beyazian (University College London, Master Student),
-      Debosmit Neogi (National Institute of Technoogy, Agartala, India, Intern),
-      Yichen Zou (Queen's University, Canada, Intern),
-      Ahmet Güzel (University of Leeds, Intern)
-      Nerea Sainz De La Maza (University College London, Undergraduate Student),
-      Kerem Eroğlu (University College London, Undergrataduate Student),
-      Serhat Aksoy (Istanbul Technical University, Erasmus Student),
-      Josef Kaizer (<a href="https://in2scienceuk.org/">In2Science UK Programme</a>),
-      Abubakar Sharif (<a href="https://in2scienceuk.org/">In2Science UK Programme</a>),
-    - 2021,
-      Chengkun Li (University College London Master Student),
-      Yuze Yang (University College London) Master Student),
+  type: nested_list
+  contents:
+    - title: 2022
+      items:
+      - Klara Brandstätter (University College London, Master Student),
+      - Yilin Qui (University College London, Master Student),
+      - Praveen Selvaraj (University College London, Master Student),
+      - Jeanne Beyazian (University College London, Master Student),
+      - Debosmit Neogi (National Institute of Technoogy, Agartala, India, Intern),
+      - Yichen Zou (Queen's University, Canada, Intern),
+      - Ahmet Güzel (University of Leeds, Intern)
+      - Nerea Sainz De La Maza (University College London, Undergraduate Student),
+      - Kerem Eroğlu (University College London, Undergrataduate Student),
+      - Serhat Aksoy (Istanbul Technical University, Erasmus Student),
+      - Josef Kaizer (<a href="https://in2scienceuk.org/">In2Science UK Programme</a>),
+      - Abubakar Sharif (<a href="https://in2scienceuk.org/">In2Science UK Programme</a>),
+    - title: 2021
+      items:
+      - Chengkun Li (University College London Master Student),
+      - Yuze Yang (University College London Master Student),
+      - Oliver Kingshott (University College London Master Student)
 
 
 - title: Awards
